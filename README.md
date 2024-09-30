@@ -1,16 +1,18 @@
-## Hi there 👋
+Carson Meikle
 
-<!--
-**Carsonbm/carsonbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Carson Meikle, a student at Brigham Young University-Idaho interested in Cybersecurity, PC Building, and anything IT related! Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm currently learning to work within powershell, networking, and maintaining servers and shares. 
+
+## Technologies and Tools
+
+- Proficient in: Python, HTML, CSS
+- Skills: Love to build and work on computers, mod consoles, work on Unraid and other self hosted services. 
+
+## Let's Connect!
+
+- Here is my [LinkedIn]((https://www.linkedin.com/in/carson-meikle/)) profile
+
+Feel free to explore my repositories and don't hesitate to reach out.
