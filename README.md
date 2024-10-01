@@ -14,5 +14,6 @@ I'm Carson Meikle, a student at Brigham Young University-Idaho interested in Cyb
 ## Let's Connect!
 
 - Here is my [LinkedIn]((https://www.linkedin.com/in/carson-meikle/)) profile
+- https://www.linkedin.com/in/carson-meikle/
 
 Feel free to explore my repositories and don't hesitate to reach out.
